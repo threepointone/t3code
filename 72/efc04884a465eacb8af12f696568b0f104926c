@@ -1,0 +1,27 @@
+infra/relay/src/environments/ManagedEndpointProvider.test.ts
+  s_3185ac0130035f::t_6f5eb0ae50c20f 278,284,294-296,497-546,1198-1199
+infra/relay/src/environments/ManagedEndpointProvider.ts
+  s_3185ac0130035f::t_ff810d89c86db1 32-37,43,63,105-106,483-490,494,501,722,725,732
+infra/relay/src/transport/RelayEnvironment.ts
+  s_3185ac0130035f::t_822146d2b7a804 7,381-389
+apps/server/src/cloud/T3RelayConnector.test.ts
+  s_3185ac0130035f::t_1c064bdfc8e03b 391-431
+apps/server/src/cloud/T3RelayConnector.ts
+  s_3185ac0130035f::t_27f7ef1e75e5ac 15,80-84,86,88,158,163-164,282,321,342-385,435,437,459,584,642-643,647-658,662
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "72efc04884a465eacb8af12f696568b0f104926c",
+  "prompts": {},
+  "sessions": {
+    "s_3185ac0130035f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0141d-aa0f-7f21-b623-73e8c2b646fd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sunil Pai <18808+threepointone@users.noreply.github.com>"
+    }
+  }
+}
