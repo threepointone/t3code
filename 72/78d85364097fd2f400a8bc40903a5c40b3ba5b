@@ -1,0 +1,53 @@
+infra/relay/src/environments/ManagedEndpointSelection.ts
+  s_3185ac0130035f::t_879a42499d530e 21-24
+packages/contracts/src/relay.ts
+  s_3185ac0130035f::t_f523ffa7b13ccc 314,995
+packages/contracts/src/relayTransport.ts
+  s_3185ac0130035f::t_9c9c1feeeaa74b 8-9,118,128,138-141,146,149-163,165-166,169,173-176,187-191,196,211,218-222,319-326,357-358,365-371
+apps/server/src/cloud/ManagedEndpointRuntime.ts
+  s_3185ac0130035f::t_b820f0c264806b 116-117,127-147
+apps/server/src/cloud/T3RelayConnector.test.ts
+  s_3185ac0130035f::t_9833df21964631 26,55,154-161,270-322
+apps/server/src/cloud/T3RelayConnector.ts
+  s_3185ac0130035f::t_87134ec59b8149 90-91,109-116,246,268,302,306,394,525,595
+docs/internals/t3-relay-transport.md
+  s_3185ac0130035f::t_bdad506f5870e2 37-39,62-66
+infra/relay/src/environments/EnvironmentConnector.test.ts
+  s_3185ac0130035f::t_7afca020a0a586 227
+infra/relay/src/environments/EnvironmentLinker.test.ts
+  s_3185ac0130035f::t_ee1a8be0bec26d 228,240-257,283
+infra/relay/src/environments/EnvironmentLinker.ts
+  s_3185ac0130035f::t_454c397e3b149e 309
+infra/relay/src/environments/EnvironmentLinks.ts
+  s_3185ac0130035f::t_86b66cf3893002 19,141,367,404,435-437
+infra/relay/src/environments/ManagedEndpointSelection.test.ts
+  s_3185ac0130035f::t_2883ad99509f5f 47-61
+infra/relay/src/http/Api.test.ts
+  s_3185ac0130035f::t_f9bba640903b7f 242,301,488-553
+infra/relay/src/http/Api.ts
+  s_3185ac0130035f::t_d0a8a68973ab59 424,434,462-474,482,485-490,679-685
+infra/relay/src/transport/RelayEnvironment.ts
+  s_3185ac0130035f::t_72f5395b79b965 12,42-45,56,161,253,372,460,591,610,614-617
+infra/relay/src/transport/httpResponseBody.test.ts
+  s_3185ac0130035f::t_7d22d6ace209aa 1-38
+infra/relay/src/transport/httpResponseBody.ts
+  s_3185ac0130035f::t_cd6c14a0872e50 1-21
+packages/contracts/src/relayTransport.test.ts
+  s_3185ac0130035f::t_e5ffa10821d94b 13-14,71-136,249-250,277-280
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7278d85364097fd2f400a8bc40903a5c40b3ba5b",
+  "prompts": {},
+  "sessions": {
+    "s_3185ac0130035f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0141d-aa0f-7f21-b623-73e8c2b646fd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Sunil Pai <18808+threepointone@users.noreply.github.com>"
+    }
+  }
+}
