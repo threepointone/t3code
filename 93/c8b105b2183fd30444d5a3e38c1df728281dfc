@@ -1,0 +1,19 @@
+infra/relay/src/transport/RelayEnvironment.ts
+  s_3185ac0130035f::t_f67e8a84fa6784 522,542-545,548-556
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "93c8b105b2183fd30444d5a3e38c1df728281dfc",
+  "prompts": {},
+  "sessions": {
+    "s_3185ac0130035f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0141d-aa0f-7f21-b623-73e8c2b646fd",
+        "model": "unknown"
+      },
+      "human_author": "Sunil Pai <18808+threepointone@users.noreply.github.com>"
+    }
+  }
+}
